@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian",
+  "description": "A futuristic radial command hub for Google Workspace and desktop apps, organized in concentric circles with quick keystroke access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
